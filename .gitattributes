@@ -1,3 +1,4 @@
 Project/imageRecognition/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
 Project/models/CNN.h5 filter=lfs diff=lfs merge=lfs -text
 Project/models/TreeEnsemble.pkl filter=lfs diff=lfs merge=lfs -text
+TreeEnsemble.pkl filter=lfs diff=lfs merge=lfs -text
